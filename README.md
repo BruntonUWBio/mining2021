@@ -1,7 +1,8 @@
 
 # Online supplement for: Investigating naturalistic hand movements by behavior mining in long-term video and neural recordings
 
-Preprint URL: [https://arxiv.org/abs/2001.08349](https://arxiv.org/abs/2001.08349)
+* Preprint URL: [https://arxiv.org/abs/2001.08349](https://arxiv.org/abs/2001.08349)
+* Accompanying data can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1uKqwTB4Zpk-cRJ6UfPPiEG9N_AiXfJDy?usp=sharing) or [Figshare](https://figshare.com/articles/Minimal_zip/12509831) **Note: Google Drive files are publically accessible (no edit access required for downloading)**
 
 BibTeX:
 ```
@@ -14,8 +15,8 @@ BibTeX:
 ```
 
 Please also see our follow-up pre-prints that use this data:
-* On neural encoding: [Behavioral and neural variability of naturalistic arm movements](https://doi.org/10.1101/2020.04.17.047357)
-* On neural decoding: Coming Soon!
+* On **neural encoding**: [Behavioral and neural variability of naturalistic arm movements](https://doi.org/10.1101/2020.04.17.047357)
+* On **neural decoding**: [Generalized neural decoders for transfer learning across participants and recording modalities](https://doi.org/10.1101/2020.10.30.362558)
 
 
 ## Code set up
@@ -42,7 +43,7 @@ pip3 install -m requirements.txt
   * Other files explained below
 
 ## Data set up
-* Files can be downloaded from from [Google Drive](https://drive.google.com/drive/folders/1uKqwTB4Zpk-cRJ6UfPPiEG9N_AiXfJDy?usp=sharing) or [Figshare](https://figshare.com/articles/Minimal_zip/12509831) 
+* Use URL at the top of this page to download files!
 
 * Download and unzip them into the same folder, lets say `/path/to/datafolder`
 
