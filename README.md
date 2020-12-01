@@ -1,5 +1,5 @@
 
-# Online supplement for: Investigating naturalistic hand movements by behavior mining in long-term video and neural recordings
+# Online supplement for: Mining naturalistic human behaviors in long-term video and neural recordings
 
 * Preprint URL: [https://arxiv.org/abs/2001.08349](https://arxiv.org/abs/2001.08349)
 * Accompanying data can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1uKqwTB4Zpk-cRJ6UfPPiEG9N_AiXfJDy?usp=sharing) or [Figshare](https://figshare.com/articles/Minimal_zip/12509831) **Note: Google Drive files are publically accessible (no edit access required for downloading)**
@@ -7,7 +7,7 @@
 BibTeX:
 ```
 @article{singh2020towards,
-  title={Towards naturalistic human neuroscience and neuroengineering: behavior mining in long-term video and neural recordings},
+  title={Mining naturalistic human behaviors in long-term video and neural recordings},
   author={Singh, Satpreet H and Peterson, Steven M and Rao, Rajesh PN and Brunton, Bingni W},
   journal={arXiv preprint arXiv:2001.08349},
   year={2020}
