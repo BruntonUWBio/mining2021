@@ -170,5 +170,22 @@ for each reach.
 ![R_wrist trajectories](abdb496b_trajectories.gif)
 
 ***
+## Conversion table between SubjectIDs (in paper) and PatientIDs (folder-name)
+| SubjectID  | PatientID  | 
+|:-:|:-:|
+| S01 | a0f66459 |
+| S02 | c95c1e82 |
+| S03 | cb46fd46 |
+| S04 | fcb01f7a |
+| S05 | ffb52f92 |
+| S06 | b4ac1726 |
+| S07 | f3b79359 |
+| S08 | ec761078 |
+| S09 | f0bbc9a9 |
+| S10 | abdb496b |
+| S11 | ec168864 |
+| S12 | b45e3f7b | 
+| ...  | ... |
+***
 
 In case of questions, please [create an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) on this repository.
