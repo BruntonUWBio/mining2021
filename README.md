@@ -20,7 +20,9 @@ Please also see our follow-up pre-prints that use this data:
 
 
 ## Examples of movements extracted 
-* Speed: 1X, Subject S01 (Patient ID: a0f66459)
+* Speed: 1X, Subject: S01 (Patient ID: a0f66459)
+* Tracked keypoints in color, video frames in grayscale
+* Video clip plays in forward and then in the reverse direction 
 
 ### Only Right wrist moving
 ![RWristOnly](right_only_1x4_boomerang.gif)
