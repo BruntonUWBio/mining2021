@@ -18,7 +18,7 @@ posteriormodel = m.ARWeakLimitStickyHDPHMM(
         )
 ```
 
-**NOTE**: [PyHSMM-Autoregressive](https://github.com/mattjj/pyhsmm-autoregressive) is now quite out of date (package versioning issues etc) has been superceded by the excellent [SSM](https://github.com/lindermanlab/ssm) package which is actively maintained and documented by the [Liderman Lab](https://web.stanford.edu/~swl1/).
+**NOTE**: [PyHSMM-Autoregressive](https://github.com/mattjj/pyhsmm-autoregressive) is now quite out of date (package versioning issues etc) has been superceded by the excellent [SSM](https://github.com/lindermanlab/ssm) package which is actively maintained and documented by the [Linderman Lab](https://web.stanford.edu/~swl1/).
 
 
 Full wrapper code snippet that fits the ARHMM:
